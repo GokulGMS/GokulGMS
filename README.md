@@ -2,7 +2,7 @@
 - 👀 I’m interested in  App development...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on opensource project
-- 📫 gokul7373@gmail.com
+- 📫 gokulg7373@gmail.com
 - ⚡ Fun fact:I'm a fan of anime!
 
 <!---
